@@ -1,0 +1,20 @@
+{
+  "id": "fish-draw-prompt",
+  "name": "生图提示词（三步走）",
+  "version": "1.0.0",
+  "description": "给「她要画图」这类场景用的提示词源代码：一份代码拼出用途+三步走+元素清单+关键特征，四个生图入口共用，改一处四处同步。别的模块 api.use('fish-draw-prompt') 即可调用。",
+  "category": "tool",
+  "tags": [
+    "生图",
+    "提示词",
+    "三步走",
+    "参考图"
+  ],
+  "author": "Xdr",
+  "license": "MIT",
+  "api": 1,
+  "minPluginVersion": "1.2.0",
+  "requires": [],
+  "capabilities": [],
+  "homepage": ""
+}
